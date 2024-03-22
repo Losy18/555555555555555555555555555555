@@ -1,0 +1,22 @@
+[
+  {
+    "id": "تعريف الحياة الواقعية ",
+    "title": "تعريف الحياة الواقعية ",
+    "description": "data/file1.txt"
+  },
+  {
+    "id": "القوانين العامة",
+    "title": "القوانين العامة",
+    "description": "data/file-1.txt"
+  },
+  {
+    "id": "قوانين الدسكورد",
+    "title": "قوانين الدسكورد",
+    "description": "data/file2.txt"
+  },
+  {
+    "id": "المناطق الامنة",
+    "title": "المناطق الامنة",
+    "description": "data/file-2.txt"
+  }
+]
